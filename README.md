@@ -1,14 +1,16 @@
 # 🔒  pii-llm-proxy
 
-**Open source middleware that anonymizes sensitive data before sending it to Claude — and restores it in the response.**
+**Open source middleware that anonymizes sensitive data before sending it to LLM — and restores it in the response.**
 
-Your data never leaves your infrastructure. Claude only sees tokens.
+Your data never leaves your infrastructure. LLM only sees tokens.
 
+Your data never leaves your infra
+Works with Claude · GPT · Gemini
 ---
 
 ## The Problem
 
-Companies want to use Claude for legal analysis, HR decisions, financial reports — but can't risk sending real names, CPFs, CNPJs, salaries, and emails to an external API.
+Companies want to use LLM for legal analysis, HR decisions, financial reports — but can't risk sending real names, CPFs, CNPJs, salaries, and emails to an external API.
 
 Moving to another provider doesn't solve it. The data still leaves.
 
