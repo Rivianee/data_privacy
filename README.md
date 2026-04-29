@@ -1,4 +1,4 @@
-# 🔒 claude-pii-proxy
+# 🔒 pii-llm-proxy
 
 **Open source middleware that anonymizes sensitive data before sending it to Claude — and restores it in the response.**
 
